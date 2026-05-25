@@ -5,4 +5,4 @@
 //3. multiplicar dos numeros
 //4. dividir dos numeros
 //5. Salir
-int num1, num2, num3
+int num1, num2, num3;
